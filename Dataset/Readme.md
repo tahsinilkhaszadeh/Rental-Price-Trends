@@ -23,7 +23,7 @@ The dataset includes 1 CSV file with 18 columns:
 - **beds**: Number of bedrooms.
 - **baths**: Number of bathrooms.
 - **sq_feet**: Area of the rental property in square feet.
-- **link**: Right side of the URL for getting full details of the property (`rentfaster.com`).
+- **link**: Right side of the URL for getting full details of the property (`rentfaster.com + link`).
 - **furnishing**: Indicates if the property is furnished.
 - **availability_date**: Date of availability.
 - **smoking**: Indicates if smoking is allowed.
